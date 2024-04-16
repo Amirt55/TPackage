@@ -2,7 +2,7 @@
 TPackage for Image Processing and Plotting   
 First, Open Colab notebook and clone the repository
 ```
-!git clone https://github.com/farhadi76m/Machine-vision-spring-2023](https://github.com/Amirt55/TPackage.git
+!git clone https://github.com/Amirt55/TPackage.git
 ```
 Then, Unzip the package
 ```

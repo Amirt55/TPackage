@@ -13,5 +13,5 @@ for example:
 ```
 from tpack import vis, trans, filt
 ```
-For more details, Please check the notebook file ReadMe.   
+For more details, Please check the ReadMe notebook file.   
 The package is being updated ...

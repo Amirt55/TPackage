@@ -6,7 +6,7 @@ First, Open Colab notebook and clone the repository:
 ```
 Then, Unzip the package
 ```
-!unzip tpack.zip
+!unzip TPackage/tpack.zip
 ```
 The last stage, Import the modules you want to use and enjoy!
 for example:
